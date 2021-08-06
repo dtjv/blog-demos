@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node src"
+    "format": "prettier --write .",
+    "dev": "ts-node src",
+    "type-check": "tsc --pretty --noEmit"
   },
   "keywords": [],
   "author": "David J. Valles <davidtjvalles@gmail.com>",
