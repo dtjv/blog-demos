@@ -1,6 +1,6 @@
 # Data validation with Superstruct
 
-A working demo for the companion blog post, [Data validation with
+A working demo for the companion blog post, [Data Validation with
 Superstruct](https://dtjv.io/data-validation-with-superstruct).
 
 ## Install
