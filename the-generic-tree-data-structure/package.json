@@ -1,0 +1,24 @@
+{
+  "name": "the-generic-tree-data-structure",
+  "author": "David Valles <davidtjvalles@gmail.com> (https://dtjv.io/)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node main.ts"
+  },
+  "devDependencies": {
+    "@types/lodash": "4.14.176",
+    "@types/node": "16.11.6",
+    "ts-node": "10.4.0",
+    "typescript": "4.4.4"
+  },
+  "prettier": {
+    "semi": false,
+    "tabWidth": 2,
+    "singleQuote": true,
+    "proseWrap": "always"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
